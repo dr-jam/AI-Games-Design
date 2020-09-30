@@ -17,7 +17,7 @@ Office Hours: Tuesdays 10:30-10:30 AM, Wednesdays 3:00-4:00 PM, private meetings
 Media for Class Meetings and Office Hours: Zoom  
 Lectures will be recorded.  
 Holidays: Nov. 11th, Veterans Day (no office hours); Nov. 26th, Thanksgiving (no class meeting)  
-Scheduled Finals Times: Monday, December 14th at 10:30 a.m.-12:30 p.m.  
+Scheduled Finals Times: Monday, December 14th at 10:30 a.m.-12:30 p.m.  [Fall 2020 Finals Schedule](https://registrar.ucdavis.edu/registration/schedule/finals)
 
 ### Instructor
 Dr. Joshua A. McCoy, Assistant Professor  
