@@ -40,11 +40,9 @@ You can download Unity Hub [here](https://unity3d.com/get-unity/download).
 
 ## Grading and Assessment
 
-* [35] Group Game Project
-* [40] Exercises
-* [15] Quizzes
-* [10] Participation/Attendance
-
+* [30] Reading Responses
+* [30] Programming Projects
+* [40] Final Project
 
 ## Schedule
 
