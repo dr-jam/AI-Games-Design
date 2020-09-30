@@ -28,6 +28,26 @@ Office: 3033 Kemper Hall
 http://joshmccoy.com  
 https://faculty.engineering.ucdavis.edu/mccoy/  
 
-### TA
+### Teaching Assistant
 Zee Chen  
 Email: zeychen at ucdavis dot edu  
+
+## Materials
+
+Unity version 2019.3.0b5. Download it directly [here](https://unity3d.com/unity/beta/2019.3.0b5) or get it with Unity Hub putting the following URI in your browser:  
+unityhub://2019.3.0b5/13eef430e0c9  
+You can download Unity Hub [here](https://unity3d.com/get-unity/download).  
+
+## Grading and Assessment
+
+* [35] Group Game Project
+* [40] Exercises
+* [15] Quizzes
+* [10] Participation/Attendance
+
+
+## Schedule
+
+Week | Topic | Reading | Discussion Plan | Deadlines
+----- | ----- | ----- | ----- | -----
+1 | | | | |
