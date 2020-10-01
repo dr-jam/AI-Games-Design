@@ -48,7 +48,10 @@ There will be approximately 8 pairs of written responses. The first of the pair 
 
 ### Programming Projects
 
-There will be 3 programming projects in this course.
+There will be 3 programming projects in this course that when completed will provide a baseline of game AI techniques for you to construct a final project from. These projects are designed to introduce you to valuable frameworks and systems used in AI-based game design. The tentative list of projects are:
+1. Classic non-player character behavior controllers.
+2. Procedural story generation via natural language generation algorithms.
+3. Social and story modeling with Comme il Faut/Ensemble.
 
 
 ## Schedule
