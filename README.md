@@ -30,7 +30,8 @@ https://faculty.engineering.ucdavis.edu/mccoy/
 
 ### Teaching Assistant
 Zee Chen  
-Email: zeychen at ucdavis dot edu  
+One of Josh's Ph.D. students working in computational media with an interest in expressive AI techniques for interactive characters using methods from academic AI, machine learning, and industry games AI techniques.  
+Feel free drop me a message on Discord or contact me by email: zeychen at ucdavis dot edu  
 
 ## Grading and Assessment
 
