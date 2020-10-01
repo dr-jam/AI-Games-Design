@@ -32,17 +32,24 @@ https://faculty.engineering.ucdavis.edu/mccoy/
 Zee Chen  
 Email: zeychen at ucdavis dot edu  
 
-## Materials
-
-Unity version 2019.3.0b5. Download it directly [here](https://unity3d.com/unity/beta/2019.3.0b5) or get it with Unity Hub putting the following URI in your browser:  
-unityhub://2019.3.0b5/13eef430e0c9  
-You can download Unity Hub [here](https://unity3d.com/get-unity/download).  
-
 ## Grading and Assessment
 
 * [30] Reading Responses
 * [30] Programming Projects
 * [40] Final Project
+
+
+### Reading and Media Responses
+
+The goal of the reading responses is to assess how students are absorbing the course materials and how able they are to synthesize the concepts into statements about the topic area. As this course is virtual and does not have a discussion section, receiving critical feedback on responses is a mechanism that facilitates student-to-student idea exchange. This instructor hopes that having your thoughts on a course read and responded to by peers will provide compelling and valuable feedback.
+
+There will be approximately 8 pairs of written responses. The first of the pair wil be a 500 word response based on the course material and a writing prompt. The second of the pair will be a 250 word reaction and critique of another student's first response. The instructor and TA will map pairs of students for the second response of the pair.
+
+
+### Programming Projects
+
+There will be 3 programming projects in this course.
+
 
 ## Schedule
 
