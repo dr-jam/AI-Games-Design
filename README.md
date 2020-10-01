@@ -54,11 +54,9 @@ There will be 3 programming projects in this course that when completed will pro
 3. Social and story modeling with Comme il Faut/Ensemble.
 
 
-## Schedule
+### Final Project
 
-Week | Topic | Reading | Discussion Plan | Deadlines
------ | ----- | ----- | ----- | -----
-1 | | | | |
+You will be responsible for the creation of prototype AI-based game. You can work in groups of 1-3 students. The project will involve a written proposal, project update presentaitons, and final presentation, and a repository featuring a playable demo or video of your prototype.
 
 
 ## UC Davis Code of Academic Conduct
