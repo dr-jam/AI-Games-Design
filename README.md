@@ -12,7 +12,7 @@ This course is about the application of AI systems into game design to enhance e
 
 ## Basic Course Information
 
-Meeting times: 9:00-10:20 AM on Tuesdays and Thursdays  
+Meeting times: 9:00-10:20 AM PST on Tuesdays and Thursdays  
 Office Hours: Tuesdays 10:30-11:30 AM, Wednesdays 3:00-4:00 PM, private meetings scheduled as needed  
 Media for Class Meetings and Office Hours: Zoom  
 Lectures will be recorded.  
