@@ -13,11 +13,11 @@ This course is about the application of AI systems into game design to enhance e
 ## Basic Course Information
 
 Meeting times: 9:00-10:20 AM PST on Tuesdays and Thursdays  
-Office Hours: Tuesdays 10:30-11:30 AM, Wednesdays 3:00-4:00 PM, private meetings scheduled as needed  
+Office Hours: Tuesdays 10:30-11:30 AM PST, Wednesdays 3:00-4:00 PM PST, private meetings scheduled as needed  
 Media for Class Meetings and Office Hours: Zoom  
 Lectures will be recorded.  
 Holidays: Nov. 11th, Veterans Day (no office hours); Nov. 26th, Thanksgiving (no class meeting)  
-Scheduled Finals Times: Monday, December 14th at 10:30 a.m.-12:30 p.m.  
+Scheduled Finals Times: Monday, December 14th at 10:30 a.m.-12:30 p.m. PST
 Information: [UC Davis 2020 Academic Calendar](https://www.ucdavis.edu/calendar/academic/) | [Fall 2020 Finals Schedule](https://registrar.ucdavis.edu/registration/schedule/finals)
 
 ### Instructor
