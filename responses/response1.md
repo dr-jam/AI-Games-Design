@@ -1,4 +1,6 @@
-As discussed in class, a major area of traditional game AI is character performance. The behavior of non-player characters is shaped by the game mechanics, setting, unfolding narrative, employed AI technique, and authored behaviors.
+As discussed in class, a major area of traditional game AI is character performance. The behavior of non-player characters is shaped by the game mechanics, setting, unfolding narrative, employed AI technique, and authored behaviors. As this topic is core to the course, this response allows for you to gain some personal experience with a powerful and useful game AI technology.
+
+The instructions are as follows:
 
 1. [AI for Behavior: Advanced Research for Intelligent Decision Making](https://www.youtube.com/watch?v=ZdN8dDa0ff4)
 
