@@ -2,7 +2,7 @@ As discussed in class, a major area of traditional game AI is character performa
 
 1. [AI for Behavior: Advanced Research for Intelligent Decision Making](https://www.youtube.com/watch?v=ZdN8dDa0ff4)
 
-2. Download and install Unity 2019.2.21 from the [Unity Archive](https://unity3d.com/get-unity/download/archive) or from the unity hub with this resource locator: unityhub://2019.2.21f1/9d528d026557
+2. Download and install Unity 2019.2.21 from the [Unity Archive](https://unity3d.com/get-unity/download/archive) or in the Unity Hub with this resource locator: unityhub://2019.2.21f1/9d528d026557
 
 3. Read the documentation for the Unity AI Planner (Links to an external site.) and play a bit with the Otto (Links to an external site.) demo. 
 
