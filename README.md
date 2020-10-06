@@ -48,6 +48,8 @@ There will be approximately 8 pairs of written responses. The first of the pair 
 
 Reading responses are due 1 week after it's assigned. Critiques are due 1 week after the responses are due. 
 
+Check [Reading Response Assignment](https://docs.google.com/spreadsheets/d/1-htbdjb7DabPeJzt9FIrtL4gtpOLcyH3uh4vZQErf1k/edit?usp=sharing) for weekly assignments. Each sheet corresponds to the week the reading response is assigned. 
+
 ### Programming Projects
 
 There will be 3 programming projects in this course that when completed will provide a baseline of game AI techniques for you to construct a final project from. These projects are designed to introduce you to valuable frameworks and systems used in AI-based game design. The tentative list of projects are:
@@ -59,7 +61,6 @@ There will be 3 programming projects in this course that when completed will pro
 ### Final Project
 
 You will be responsible for the creation of prototype AI-based game. You can work in groups of 1-3 students. The project will involve a written proposal, project update presentaitons, and final presentation, and a repository featuring a playable demo or video of your prototype.
-
 
 ## UC Davis Code of Academic Conduct
 
