@@ -46,6 +46,7 @@ The goal of the reading responses is to assess how students are absorbing the co
 
 There will be approximately 8 pairs of written responses. The first of the pair wil be a 500 word response based on the course material and a writing prompt. The second of the pair will be a 250 word reaction and critique of another student's first response. The instructor and TA will map pairs of students for the second response of the pair.
 
+Reading responses are due 1 week after it's assigned. Critiques are due 1 week after the responses are due. 
 
 ### Programming Projects
 
