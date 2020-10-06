@@ -4,7 +4,7 @@ As discussed in class, a major area of traditional game AI is character performa
 
 2. Download and install Unity 2019.2.21 from the [Unity Archive](https://unity3d.com/get-unity/download/archive) or in the Unity Hub with this resource locator: unityhub://2019.2.21f1/9d528d026557
 
-3. Read the documentation for the Unity AI Planner (Links to an external site.) and play a bit with the Otto (Links to an external site.) demo. 
+3. Read the (documentation for the Unity AI Planner)[https://docs.unity3d.com/Packages/com.unity.ai.planner@0.1/manual/index.html].
 
 4. Clone the Otto Unity AI Planner demo repository (use the lfs option when cloning): https://github.com/Unity-Technologies/otto
 
