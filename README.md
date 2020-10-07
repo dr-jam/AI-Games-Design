@@ -50,6 +50,8 @@ Reading responses are due 1 week after it's assigned. Critiques are due 1 week a
 
 Check [Reading Response Assignment](https://docs.google.com/spreadsheets/d/1-htbdjb7DabPeJzt9FIrtL4gtpOLcyH3uh4vZQErf1k/edit?usp=sharing) for weekly assignments. Each sheet corresponds to the week the reading response is assigned. 
 
+If you would like to use a personalized username for the reading responses, please fill out the [RR User Name Form](https://forms.gle/4wpsgeK3SqTwHAqv9).
+
 ### Programming Projects
 
 There will be 3 programming projects in this course that when completed will provide a baseline of game AI techniques for you to construct a final project from. These projects are designed to introduce you to valuable frameworks and systems used in AI-based game design. The tentative list of projects are:
