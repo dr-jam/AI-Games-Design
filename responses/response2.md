@@ -4,6 +4,7 @@
 2. [AI-Based Game Design: Enabling New Playable Experiences](https://www.soe.ucsc.edu/sites/default/files/technical-reports/UCSC-SOE-11-27.pdf). (Links to an external site.) Mirjam Eladhari, Anne Sullivan, Gillian Smith, Josh McCoy. Technical Report UCSC-SOE-11-27, 2011.
 
 **Questions:**
+
 *Respond to the following questions in a total of 500-750 words / 1 - 1.5 pages:*
 1. Briefly summarize each article. (One paragraph each)
 2. For each article, what was convincing? (Where did you see or learn something new with the author's help? Which examples or evidence was most effective?)
