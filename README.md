@@ -55,8 +55,8 @@ If you would like to use a personalized username for the reading responses, plea
 ### Programming Projects
 
 There will be 3 programming projects in this course that when completed will provide a baseline of game AI techniques for you to construct a final project from. These projects are designed to introduce you to valuable frameworks and systems used in AI-based game design. The tentative list of projects are:
-1. Classic non-player character behavior controllers.
-2. Procedural story generation via natural language generation algorithms.
+1. [Classic non-player character behavior controllers](https://docs.google.com/document/d/1mMy4p7Z66kr76FAN2A59B6pn_TQrVr179DVVORZPDdE/edit?usp=sharing).
+2. [Procedural story generation via natural language generation algorithms](https://docs.google.com/document/d/1cyxwsvtyeYJRxN4T2P1SNH5fWNKNhyPkpzTVfKSk9Zc/edit?usp=sharing).
 3. Social and story modeling with Comme il Faut/Ensemble.
 
 
